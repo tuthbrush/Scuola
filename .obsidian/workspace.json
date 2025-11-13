@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mate/Esercizi.md",
+                "file": "Mate/Mate Schemi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esercizi"
+              "title": "Mate Schemi"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "02e65837932d829a",
   "lastOpenFiles": [
-    "SIS-R/Hardware.md",
     "Mate/Esercizi.md",
+    "Mate/Mate Schemi.md",
+    "SIS-R/Hardware.md",
     "Mate",
     "Welcome.md",
     "SIS-R"
